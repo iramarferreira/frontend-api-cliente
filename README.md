@@ -4,7 +4,7 @@ Esse é um projeto simples que foi criado com o intuito de consumir uma [API RES
 
 ## Imagem da tela inicial
 
-![alt text](https://github.com/iramarferreira/frontend-api-cliente/blob/main/tela_inicial.png?raw=true)
+![Tela inicial](https://github.com/iramarferreira/frontend-api-cliente/blob/main/imagens/tela_inicial.png?raw=true)
 
 ### Configurar o projeto
     
